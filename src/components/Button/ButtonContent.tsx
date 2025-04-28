@@ -1,5 +1,3 @@
-import { ButtonHTMLAttributes } from 'react';
-
 interface ButtonContentProps {
   title: string;
   className: string;
